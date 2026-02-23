@@ -145,5 +145,3 @@ dotnet ef database update && dotnet run
 ***
 
 **Pronto para produção!** 🚀
-
-Gostaria de adicionar alguma seção específica como exemplos de endpoints, testes unitários ou instruções de deploy?
