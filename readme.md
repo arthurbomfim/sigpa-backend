@@ -1,5 +1,3 @@
-Aqui está um README.md completo e bem estruturado para o seu projeto SIGPA_Backend, baseado nas informações fornecidas:
-
 ***
 
 # SIGPA Backend
