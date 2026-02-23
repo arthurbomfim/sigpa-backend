@@ -4,6 +4,8 @@
 
 API REST desenvolvida em .NET 9.0 seguindo **Clean Architecture**. Sistema modular com separação clara de responsabilidades entre Domain, Application, Infrastructure e API.
 
+Observação: O arquivo do compose que inicia o projeto não está incluso no repositorio pois ele tambem orquestra containeres do frontend
+
 ## 🏗️ Arquitetura
 
 ```
@@ -12,7 +14,6 @@ SIGPA_Backend/
 ├── Application/         # UseCases, DTOs e interfaces
 ├── Domain/              # Entidades, interfaces de repositório e regras de negócio
 ├── Infrastructure/      # Repositories, DbContext, Services concretos
-├── docker-compose.yml   # Backend + PostgreSQL
 └── Program.cs           # Injeção de dependências
 ```
 
